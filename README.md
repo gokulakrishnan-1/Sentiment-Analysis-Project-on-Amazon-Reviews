@@ -19,3 +19,4 @@ Determined sentiment scores for a variety of emotional categories.
 
 🎯 Takeaways: The analysis highlighted prevailing sentiments and reactions, giving a clear visual representation of the readers' emotional engagement with the book.
 
+![image](https://github.com/user-attachments/assets/548c3622-60fe-44f9-b08c-edc59f641482)
